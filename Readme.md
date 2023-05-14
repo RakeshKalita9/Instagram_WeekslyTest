@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Instagram Basic Design - Part 1</h1>
+Instagram_Backend-Design</h1>
 This project is aimed at creating the basic design of the backend of Instagram. 
 
 >### Prerequisites
